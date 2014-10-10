@@ -42,7 +42,7 @@ body {
 .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
   width: 659px;
   height: 494px;
-  border: 1px solid red;
+  
 }
 
 .ryu-ready, .ryu-throwing, .ryu-cool {
