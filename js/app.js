@@ -21,7 +21,7 @@ $(document).ready(function() {
 		);// show hadouken and animate it to the right of screen
 	})
 	.mouseup (function() {
-		$('.ryu-throwing').hide();
+		$('.ryu-throwing, .ryu-cool, .ryu-still,.hadouken').hide();
 		$('.ryu-ready').show();
 	});
 $(document).keydown(function(e) {
